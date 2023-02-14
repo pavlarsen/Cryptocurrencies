@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 
-The purpose of this project is to .
+The purpose of this project is to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for the new crypto investment. The original data had to be processed to fit into a machine learning model based on unsupervised learning. To group the cryptocurrencies, we used a clustering algorithm.
 
 
 ---
@@ -10,17 +10,21 @@ The purpose of this project is to .
 ## Results
 
 
-* Describe the balanced accuaracy score and the precision and recall scores of all six machine learning models:
+* Preprocessing the Data for PCA
+.
+
+
+* Reducing Data Dimensions using PCA
 
 .
 
 
-* 
+* Clustering Cryptocurrencies using K-means
 
 .
 
 
-* 
+* Visualizing Cryptocurrencies results
 
 .
 
@@ -32,6 +36,5 @@ The purpose of this project is to .
 * .
 
 
-* Recommendation on which model to use:
 
 
