@@ -21,6 +21,7 @@ After the data was filtered, it was time to prepare the data into numbers for th
 ![1 2](https://user-images.githubusercontent.com/113866707/218630793-d723f8ff-a31b-40a2-ade8-66d595749927.png)
 
 I used StandardScaler() to standardize the whole set of data.
+
 ![1 3](https://user-images.githubusercontent.com/113866707/218630802-60119150-df3f-42e2-ab33-674ff799eff1.png)
 
 
@@ -47,6 +48,7 @@ The K-means model is initated considering the 4 clusters:
 ![3 2](https://user-images.githubusercontent.com/113866707/218630845-0583653e-c117-4f7e-a92c-bd20540e562d.png)
 
 And we can finally present the DataFrame with the 3 Dimensions and the class assigned to each coin:
+
 ![3 3](https://user-images.githubusercontent.com/113866707/218630854-41cad18a-d55c-41dc-b529-156966c69e46.png)
 
 
